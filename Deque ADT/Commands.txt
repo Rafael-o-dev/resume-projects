@@ -1,0 +1,10 @@
+1;copy line 3-6
+2;paste line 3-6 after line 10
+3;remove line 20-30
+4;remove the first 3 words of line 1
+5;join line 20 and 30
+6;replace all occurrences of "num" to "number"
+7;comment out line 4-5
+8;indent line 12-15
+9;unindent line 5-8
+10;uncomment line 9-11
